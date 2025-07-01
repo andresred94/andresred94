@@ -1,15 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=3000&color=36FF00&lines=The+Matrix+has+you+.+.+.;Follow+the+white+rabbit.)](https://git.io/typing-svg)
 ![](https://komarev.com/ghpvc/?username=andresred94)
 
-**andresred94/andresred94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador web enfocado en la accesibilidad y usabilidad del contenido digital.
 
-Here are some ideas to get you started:
+Actualmente estoy aprendiendo
+- [Python](#https://www.python.org)
+- [React](#https://es.react.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Frameworks que utilizo
+- [Django](#https://www.djangoproject.com)
+- [Bootstrap](#https://getbootstrap.com)
+
+Lenguages que utilizo
+-[CSS](#https://developer.mozilla.org/es/docs/Web/CSS)
+-[HTML5](#https://developer.mozilla.org/es/docs/Web/HTML)
+-[JavaScript](#https://developer.mozilla.org/es/docs/Web/JavaScript)
+-[PHP](#https://www.php.net)
