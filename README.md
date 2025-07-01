@@ -6,6 +6,7 @@ Desarrollador web enfocado en la accesibilidad y usabilidad del contenido digita
 Actualmente estoy aprendiendo
 - [Python](https://www.python.org)
 - [React](https://es.react.dev)
+- [Tailwind](https://tailwindcss.com)
 
 Frameworks que utilizo
 - [Django](https://www.djangoproject.com)
@@ -16,3 +17,9 @@ Lenguages que utilizo
 - [HTML5](https://developer.mozilla.org/es/docs/Web/HTML)
 - [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
 - [PHP](https://www.php.net)
+- [MySQL](https://www.mysql.com)
+- [PostgreSQL](https://www.postgresql.org)
+
+Herramientas que utilizo para desarrollo y despliegue
+- [Docker](https://www.docker.com)
+- [AWS](https://aws.amazon.com)
