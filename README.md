@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=36FF00&lines=The+Matrix+has+you+.+.+.;Follow+the+white+rabbit.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=3000&color=36FF00&lines=The+Matrix+has+you+.+.+.;Follow+the+white+rabbit.)](https://git.io/typing-svg)
 ![](https://komarev.com/ghpvc/?username=andresred94)
 
 **andresred94/andresred94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
