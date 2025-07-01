@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hola+soy+Andrés;Hello+I'm+Andrés)](https://git.io/typing-svg)
 
 **andresred94/andresred94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
