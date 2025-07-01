@@ -12,7 +12,7 @@ Frameworks que utilizo
 - [Bootstrap](#https://getbootstrap.com)
 
 Lenguages que utilizo
--[CSS](#https://developer.mozilla.org/es/docs/Web/CSS)
--[HTML5](#https://developer.mozilla.org/es/docs/Web/HTML)
--[JavaScript](#https://developer.mozilla.org/es/docs/Web/JavaScript)
--[PHP](#https://www.php.net)
+- [CSS](#https://developer.mozilla.org/es/docs/Web/CSS)
+- [HTML5](#https://developer.mozilla.org/es/docs/Web/HTML)
+- [JavaScript](#https://developer.mozilla.org/es/docs/Web/JavaScript)
+- [PHP](#https://www.php.net)
